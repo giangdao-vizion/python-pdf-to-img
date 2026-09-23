@@ -1,2 +1,5 @@
 input.pdf
 output_images/.DS_Store
+
+# CodeGraph local index
+.codegraph/
